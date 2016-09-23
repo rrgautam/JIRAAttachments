@@ -6,9 +6,11 @@ print ("test2")
 print ("lets play")
 print (" test again")
 <<<<<<< HEAD
+print ("what the hell")
 >>>>>>> 8f53ab1fa99c5a61a196cb80033da0e51206d98e
 ||||||| merged common ancestors
 =======
 print ("last time")
+print ("test failed")
 
->>>>>>> 49f30bf61ac78598e26775bc126ab0dd4f3e27f3
+>>>>>>> 84481cba1e5c9b4980ae032fc477ee6c31756d2b
