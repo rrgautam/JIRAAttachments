@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-print ("Hello Python World")
-print ("test commit with sshkeys")
-print ("finally testing with ssh")
-print("Adding one more line")
-||||||| merged common ancestors
-print ("Test in VP")
-=======
 print ("Test in VP")
 print ("tested in vp")
->>>>>>> c583a0b0e7e0ab4c9d67fc3e131aac3fec14a04a
+<<<<<<< HEAD
+print ("Heelo")
+print ("test1")
+print ("test2")
+||||||| merged common ancestors
+=======
+print (" test again")
+>>>>>>> 8f53ab1fa99c5a61a196cb80033da0e51206d98e
