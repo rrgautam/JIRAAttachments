@@ -1,10 +1,14 @@
 print ("Test in VP")
 print ("tested in vp")
-<<<<<<< HEAD
 print ("Heelo")
 print ("test1")
 print ("test2")
+print ("lets play")
+print (" test again")
+<<<<<<< HEAD
+>>>>>>> 8f53ab1fa99c5a61a196cb80033da0e51206d98e
 ||||||| merged common ancestors
 =======
-print (" test again")
->>>>>>> 8f53ab1fa99c5a61a196cb80033da0e51206d98e
+print ("last time")
+
+>>>>>>> 49f30bf61ac78598e26775bc126ab0dd4f3e27f3
